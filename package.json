@@ -1,0 +1,15 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "chat app using socket.io, node.js and express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddharth Gupta",
+  "license": "ISC",
+  "dependencies":{
+    "socket.io":"*",
+    "express":"*"
+  }
+}
